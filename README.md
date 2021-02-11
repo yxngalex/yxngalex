@@ -1,6 +1,6 @@
 ### Hello! My name's Aleksa 👋
 
-I'm a student that loves to learn new stuff and explore new challenges. I'm currently studying **Software Engineering** and i'm working as a Software Developer. I'm very passionate about solving all kinds of different problems and i love breaking down complex problems into simple solutions.
+I'm a student that loves to learn new stuff and explore new challenges. I'm currently studying **Software Engineering** and I'm working as a Software Developer. I'm very passionate about solving all kinds of different problems and i love breaking down complex problems into simple solutions.
 
 <!--
 **yxngalex/yxngalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
